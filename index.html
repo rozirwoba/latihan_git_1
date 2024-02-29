@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tugas HTML CSS</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<div class="style-index">
+    <frameset rows="15%, 10%, *, 6%" cols="100%" frameborder="no">
+        <frame src="header.html" scrolling="no" />
+        <frameset>
+            <frame src="navbar.html" scrolling="no"  />
+        </frameset>
+        <frameset cols="15%, *, 15%">
+            <frame src="left_content.html" noresize="yes" />
+            <frame src="home.html" scrolling="yes" name="main">
+            <frame src="right_content.html" scrolling="yes">
+        </frameset>
+        <frameset>
+            <frame src="footer.html" />
+        </frameset>
+    </frameset>
+</div>
+</html>

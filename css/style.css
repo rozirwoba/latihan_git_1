@@ -1,0 +1,140 @@
+.link-judul {
+    color: white;
+    background-color: #007FFF;
+    border-radius: 20px;
+    padding: 10px;
+    width: 100px;
+    text-align: center;
+}
+
+.body-left-content {
+    background-color: #007FFF;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+.body-navbar {
+    background-color: #007FFF;
+}
+
+.body-footer {
+    background-color: #007FFF;
+}
+
+fieldset, .legend-style {
+    border: none !important;
+  }
+
+a { 
+    text-decoration: none !important;
+}
+
+.table-navbar {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding: 0.8%;
+}
+
+.table-home {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    border-spacing: 10px;
+}
+
+.table-home td {
+    padding: 10px;
+}
+
+.btn-navbar {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+    padding: 0.375rem 0.75rem;
+    line-height: 1.5;
+    color: white;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    text-align: center;
+    background-color: #ff0000;
+    border-radius: 10px;
+}
+
+.btn {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+    padding: 0.375rem 0.75rem;
+    line-height: 1.5;
+    color: white;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    text-align: center;
+    background-color: #273ae9;
+    border-radius: 10px;
+}
+
+.left-title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.body-home {
+    background-color: #007FFF;
+    color: white;
+}
+.body-study {
+    background-color: #007FFF;
+    color: white;
+}
+.body-header {
+    background-color: #007FFF;
+    color: white;
+}
+.body-galery {
+    background-color: #007FFF;
+    color: white;
+}
+
+.body-right {
+    background-color: #007FFF;
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.table-style-right {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.paragraph-foooter {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 16px;
+}
+
+.paragraph-foooter a {
+    text-decoration: none;
+    color: burlywood;
+}
+
+.style-index {
+    background-image: url('/img/gambar-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.table-study {
+    justify-content: center;
+    display: flex;
+}
+
+.img-study {
+    text-align: center;
+}
